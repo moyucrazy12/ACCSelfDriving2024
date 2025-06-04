@@ -4,6 +4,7 @@ Welcome to the repository of the Mechatronic Engineering team of the Pontifical 
 
 # Project Overview
 Our project aims to implement a machine learning model to provide a QCar with autonomous navigation capabilities. The model is based on image processing from the main camera, GPS positioning, and speed and steering control.
+Presentation Video: https://www.youtube.com/watch?v=eg9S1fe8fbc
 
 # Team
 The team consists of fourth and fifth year undergraduate students in Mechatronics Engineering from PUCP, who are also members of the Intelligent Robotics Research Group from PUCP.
